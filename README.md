@@ -24,7 +24,7 @@ More issues may arise.
 After downloading the `.xz` file, decompress it properly:
 
 ```bash
-qemu-img convert -O raw whonix-gateway.qcow2 whonix-gateway.raw
+tar -xvf Whonix*.libvirt.xz
 ```
 
 **Note:** This can take a while. No progress bar. It’s probably not stuck, just wait.
