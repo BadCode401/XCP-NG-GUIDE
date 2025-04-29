@@ -102,10 +102,6 @@ Start the VM.
 
 ## Step 7 — Setting the IP Address (Properly)
 
-By default, Whonix tries to use DHCP.  
-However, in this setup, **DHCP might not work correctly** due to XCP-ng networking behavior.
-
-> **Solution:** Manually set a static IP.
 
 Inside the Gateway, open the network config:
 
