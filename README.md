@@ -13,7 +13,7 @@ More issues may arise.
 # What You Need
 
 1. Download the KVM version of Whonix: [Whonix KVM Download](https://www.whonix.org/wiki/KVM#Download)
-2. XCP-ng with XO (Xen Orchestra) - [XCP-ng](https://xcp-ng.org/)
+2. XCP-ng with XOA (Xen Orchestra) - [XCP-ng](https://xcp-ng.org/)
 3. `qemu-img` - available on Linux and Windows (tested on Debian Linux)
 4. Some free time (and patience)
 
