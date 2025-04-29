@@ -5,7 +5,7 @@ Since I didn't find a proper guide, here is one.
 # Disclaimer
 
 This installation comes with **NO guarantees**.
-We will have to wiggle around Whonix's configuration, disable certain checks, and accept that there is no time spoofing or full feature set.
+We will have to wiggle around Whonix's configuration, and accept that there is no time spoofing or full feature set.
 More issues may arise.
 
 **Recommendation:** Deploy something like **pfSense** as a virtual router *in front* of the Whonix Gateway to limit problems.
