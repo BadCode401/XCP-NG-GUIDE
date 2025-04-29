@@ -120,8 +120,7 @@ auto eth0
 iface eth0 inet static
     address 192.168.178.150
     netmask 255.255.255.0
-    gateway 192.168.178.1
-    dns-nameservers 192.168.178.1
+    gateway 192.168.178.1 
 ```
 
 **Notes:**
